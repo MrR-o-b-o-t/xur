@@ -1,6 +1,11 @@
 {
   "main": {
+<<<<<<< HEAD
     "name":"Where is Xur",
+=======
+    "name":"Xur",
+    "occupation":"(Your Occupation Here)",
+>>>>>>> b6c39362df125b00b76c17a98467c10a427679a7
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
